@@ -13,4 +13,4 @@ Inspired from Eloquent's JS book! ツ
 
 ## Author
 
-See more projects - [@AbdelrahmanElasadig](https://github.com/AbdelrahmanElsadig?tab=repositories)
+See more projects - [@AbdelrahmanElsadig](https://github.com/AbdelrahmanElsadig?tab=repositories)
